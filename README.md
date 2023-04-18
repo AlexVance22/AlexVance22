@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Alex Vance
-- 👀 I’m interested in game and game framework development
-- 🌱 I’m currently learning C++ and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AlexVance22/AlexVance22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hey, It's me Alex
+***
+## Who Am I
+This used to be my C/C++ github account, but in recent months I've made a big push to get comfortable with rust, and I'm gonna be uploading lots of that in future.
+***
+## My Various Pages
+- I have a blog, though the domain is inactive at the moment. [alexscodeblog.com]
+- I also have a very non-code related YouTube channel. [youtube.com/@lookingformadrid]
