@@ -1,8 +1,13 @@
 # Hey, It's me Alex
 ***
 ## Who Am I
-This used to be my C/C++ github account, but in recent months I've made a big push to get comfortable with rust, and I'm gonna be uploading lots of that in future.
+- C/C++/Rust enthusiast
+- Python/Lua on weekends
+- I like producing my own command line tools and experimenting with graphics
+- I abuse game frameworks to produce desktop GUIs because standard tools in systems languages are miserable
+- Obligatory "I use NeoVim btw" shoutout
+- Also hoping to learn a bit of web dev soon, still trying to figure out how it all works (experimenting with Express, React, Next, Vite etc)
 ***
 ## My Various Pages
-- I have a [blog](https://www.alexscodeblog.com), though the domain is inactive at the moment.
+- I have a [blog](https://www.alexscodeblog.com), where you can sometimes find me documenting my process for creating these projects, among other ramblings about various artistic projects.
 - I also have a very non-code related [YouTube channel](https://www.youtube.com/@lookingformadrid).
